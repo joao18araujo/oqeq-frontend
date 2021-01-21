@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TouchableIcon should match the snapshot 1`] = `"<View style=\\"opacity:1\\" focusable=\\"true\\"><Text style=\\"0:[object Object];2:[object Object];3:[object Object]\\"></Text></View>"`;
